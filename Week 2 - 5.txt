@@ -1,0 +1,69 @@
+-----Amazon Textract has detected as follows-----
+Key: WITH SIGNIFICANT FINDINGS, Value: NOT_SELECTED
+Key: WITH SIGNIFICANT FINDINGS, Value: NOT_SELECTED
+Key: WITH SIGNIFICANT FINDINGS, Value: NOT_SELECTED
+Key: Normal, Value: SELECTED
+Key: PASSED, Value: SELECTED
+Key: For Further Evaluation, Value: NOT_SELECTED
+Key: UNFIT, Value: NOT_SELECTED
+Key: Normal, Value: SELECTED
+Key: BMI:, Value: 15
+Key: DATE, Value: 25/9/2023
+Key: Normal, Value: SELECTED
+Key: PASSED, Value: SELECTED
+Key: Normal, Value: SELECTED
+Key: MEDICAL EXAMINATION REPORT, Value: 5678901234
+Key: Inadequate, Value: NOT_SELECTED
+Key: PASSED, Value: SELECTED
+Key: IN. RESULTS OF ANCILLARY EXAMINATIONS. Place a check mark ( in the appropriate box, Value: NOT_SELECTED
+Key: I. BLOOD TYPE (Specify):, Value: A+
+Key: Reactive, Value: NOT_SELECTED
+Key: Defective, Value: NOT_SELECTED
+Key: Inadequate, Value: NOT_SELECTED
+Key: With Findings, Value: NOT_SELECTED
+Key: ADDRESS:, Value: PASIG CITY
+Key: Reactive, Value: NOT_SELECTED
+Key: Non-, Value: SELECTED
+Key: Adequate, Value: SELECTED
+Key: Non-Reactive, Value: SELECTED
+Key: With Findings, Value: NOT_SELECTED
+Key: Adequate, Value: SELECTED
+Key: With Findings, Value: NOT_SELECTED
+Key: With Findings, Value: NOT_SELECTED
+Key: Adequate, Value: SELECTED
+Key: Normal, Value: SELECTED
+Key: With Findings, Value: NOT_SELECTED
+Key: Normal, Value: SELECTED
+Key: N. SUMMARY. Place check mark () in the appropriate box, Value: NOT_SELECTED
+Key: Non-, Value: SELECTED
+Key: (Name of Clinic), Value: 3456789012
+Key: NAME AND SIGNATURE OF EXAMINING/AUTHORIZED PHYSICIAN, Value: CLARK TONG
+Key: LICENSE NUMBER:, Value: 4567890123
+Key: YEAR, Value: 2023
+Key: FIT, Value: SELECTED
+Key: WEIGHT (kg):, Value: 50
+Key: HEIGHT (cm), Value: 180
+Key: ODJ, Value: 20
+Key: DAY, Value: 25
+Key: NAME AND SIGNATURE OF APPLICANT THIS SIGNATURE SHOULD - AFFIRED - THE PRESENCE OF THE DUMINING PHYSICIAN, Value: JAMES DEVLIN a
+Key: MONTH, Value: 9
+Key: Adequate, Value: SELECTED
+Key: Defective, Value: NOT_SELECTED
+Key: RHYTHM:, Value: 150
+Key: ODJ, Value: 20
+Key: 105 20/, Value: 20
+Key: V. ASSESSMENT OF FITNESS FOR LANDBASED OVERSEAS WORK. Place . check mark () in the appropriate box, Value: NOT_SELECTED
+Key: Reactive (when required), Value: None
+Key: OSJ, Value: 20
+Key: YEAR, Value: None
+Key: (mm Hg), Value: to
+Key: MONTH, Value: None
+Key: Alongside columns A. B, c put check mark under 'YES' If, Value: NOT_SELECTED
+Key: /min, Value: 100
+Key: min, Value: 30
+Key: (mm Hg), Value: 120
+Key: ADDITIONAL TEST(S) (Specify):, Value: e.g. Blood Chemistries, Drug Test, Alcohol Test, Liver Function Test, Stool Culture, etc.
+Key: Mouth, Throat, Value: SELECTED
+Key: OD 20/, Value: 20
+Key: A.O. No., Value: 2013-0006
+Key: Ears, Value: SELECTED

@@ -1,0 +1,44 @@
+-----Amazon Textract has detected as follows-----
+Key: EMPLOYER/COMPANY/RECRUITMENT AGENCY (IF APPLICABLE):, Value: SHIP INC.
+Key: NATIONALITY:, Value: FILIPINO
+Key: SURNAME/LAST NAME:, Value: DEVLIN
+Key: MIDDLE NAME, Value: ISAACS
+Key: GIVEN NAME:, Value: JAMES
+Key: COUNTRY OF DESTINATION:, Value: MALTA
+Key: UNFIT, Value: NOT_SELECTED
+Key: FIT, Value: SELECTED
+Key: RELIGION:, Value: NONE
+Key: NO, Value: NOT_SELECTED
+Key: PASSPORT NUMBER:, Value: 1234567890
+Key: YES, Value: SELECTED
+Key: YES, Value: SELECTED
+Key: YES, Value: SELECTED
+Key: NO, Value: NOT_SELECTED
+Key: POSITION APPLIED FOR:, Value: EXECUTIVE ASSISTANT
+Key: NO, Value: NOT_SELECTED
+Key: PLACE OF BIRTH:, Value: MANILA
+Key: MARRIED, Value: NOT_SELECTED
+Key: AGE:, Value: 30
+Key: YES, Value: SELECTED
+Key: DATE:, Value: 25/9/2023
+Key: NO, Value: NOT_SELECTED
+Key: Name and Signature of Examining/Authorized Physician, Value: CLARK TONG a
+Key: Date of Examination:, Value: 25/9/2023
+Key: SINGLE, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: FEMALE, Value: NOT_SELECTED
+Key: MALE, Value: SELECTED
+Key: ADDRESS:, Value: 7 RD. 22, PROJECT 8, QUEZON CITY, PHILIPPINES
+Key: MONTH, Value: 9
+Key: DAY, Value: 25
+Key: (NAME OF APPLICANT), Value: JAMES DEVLIN
+Key: YEAR, Value: 2023
+Key: YEAR, Value: 1993
+Key: APPLICANT'S NAME AND SIGNATURE:, Value: JAMES DEVLIN H OF THE EXAMINING PHYSICIAN)
+Key: MONTH, Value: 10
+Key: DAY, Value: 2
+Key: Medical Director, Value: by: & JOHN SMITH
+Key: OFFICIAL STAMP, Value: None
+Key: A.O. No., Value: 2013-0006
+Key: DATE OF EXPIRATION OF PEME CERTIFICATE:, Value: (Filling out this field is not mandatory.) DAY MONTH YEAR

@@ -1,0 +1,55 @@
+-----Amazon Textract has detected as follows-----
+Key: For Further Evaluation, Value: NOT_SELECTED
+Key: WITH SIGNIFICANT FINDINGS, Value: NOT_SELECTED
+Key: WITH SIGNIFICANT FINDINGS, Value: NOT_SELECTED
+Key: Normal, Value: SELECTED
+Key: Normal, Value: SELECTED
+Key: Reactive, Value: NOT_SELECTED
+Key: WITH SIGNIFICANT FINDINGS, Value: NOT_SELECTED
+Key: Reactive, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: Non-Reactive, Value: SELECTED
+Key: PASSED, Value: SELECTED
+Key: Non-Reactive, Value: SELECTED
+Key: With Findings, Value: NOT_SELECTED
+Key: DATE, Value: 25/9/2023
+Key: I BLOOD TYPE (Specify):, Value: At
+Key: MEDICAL EXAMINATION REPORT NO:, Value: 5678901234
+Key: Reactive, Value: NOT_SELECTED
+Key: Normal, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: With Findings, Value: NOT_SELECTED
+Key: With Findings, Value: NOT_SELECTED
+Key: Normal, Value: SELECTED
+Key: With Findings, Value: NOT_SELECTED
+Key: WITHOUT RESTRICTIONS:, Value: SELECTED
+Key: PASSED, Value: SELECTED
+Key: Non-Reactive, Value: SELECTED
+Key: Normal, Value: SELECTED
+Key: PASSED, Value: SELECTED
+Key: NAME AND SIGNATURE OF SEAFARER, Value: JAMES DEVLIN A
+Key: ADDRESS:, Value: PASIG CITY
+Key: Normal, Value: SELECTED
+Key: LICENSE NUMBER:, Value: 4567890123
+Key: With Findings, Value: NOT_SELECTED
+Key: IV. SUMMARY. Place a check mark () in the appropriate box, Value: NOT_SELECTED
+Key: MONTH, Value: 9
+Key: NOT FIT FOR LOOK-OUT DUTY, Value: NOT_SELECTED
+Key: III. RESULTS OF ANCILLARY EXAMINATIONS. Place a check mark in the appropriate box, Value: NOT_SELECTED
+Key: YEAR, Value: 2024
+Key: NAME AND SIGNATURE OF EXAMINING/AUTHORIZED PHYSICIAN:, Value: CLARK TONG
+Key: DAY, Value: 25
+Key: MONTH, Value: 9
+Key: YEAR, Value: 2023
+Key: FIT FOR LOOK-OUT DUTY, Value: SELECTED
+Key: OTHER SERVICES, Value: NOT_SELECTED
+Key: DAY, Value: 25
+Key: REMARKS/SPECIAL NEEDS (Sspecify e.g. with medication, diet restriction etc.), Value: None
+Key: Describe restrictions** (refer to standard restrictions at the bottom of this page)., Value: None
+Key: V. ASSESSMENT OF FITNESS FOR SERVICE AT SEA. Place a check mark () in the appropriate box, Value: NOT_SELECTED
+Key: WITH RESTRICTIONS:, Value: NOT_SELECTED
+Key: CATERING SERVICE, Value: NOT_SELECTED
+Key: I hereby authorize the release of all my medical records to the DOH/MARINA/POEA the examining/authorized physician and my employer/manning agency, Value: SHIP INC.
+Key: ENGINE SERVICE, Value: SELECTED
+Key: DECK SERVICE, Value: NOT_SELECTED
+Key: Mouth, Throat, Value: SELECTED

@@ -1,0 +1,103 @@
+-----Amazon Textract has detected as follows-----
+Key: MIDDLE NAME:, Value: ISAACS
+Key: GIVEN NAME:, Value: JAMES
+Key: RELIGION:, Value: NONE
+Key: NATIONALITY:, Value: FILIPINO
+Key: YES, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: NO, Value: SELECTED
+Key: MARRIED, Value: NOT_SELECTED
+Key: SINGLE, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: SURNAME/LAST NAME:, Value: DEVLIN
+Key: SEAMAN'S BOOK NUMBER:, Value: 2345678901
+Key: YES, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: FEMALE, Value: NOT_SELECTED
+Key: NO, Value: SELECTED
+Key: CATERING, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: AGE:, Value: 30
+Key: NO, Value: SELECTED
+Key: PASSPORT NUMBER:, Value: 1234567890
+Key: NO, Value: SELECTED
+Key: MALE, Value: SELECTED
+Key: DECK, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: ENGINE, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: ADDRESS:, Value: 7 RD. 22, PROJECT 8 QUEZON CITY, PHILIPPINES
+Key: NAME OF COMPANY:, Value: SHIP INC.
+Key: BMI., Value: 15
+Key: PLACE OF BIRTH:, Value: MANILA CITY PHILIPPINESCOUNTRY
+Key: YES, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: Defective, Value: NOT_SELECTED
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: (Specify), Value: None
+Key: NO, Value: SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: NO, Value: SELECTED
+Key: Adequate, Value: SELECTED
+Key: Last Menstrual Period, specify date, Value: None
+Key: OTHERS, Value: NOT_SELECTED
+Key: been diagnosed, sought advice or treatment from a medical doctor on the following, Value: NOT_SELECTED
+Key: Inadequate, Value: NOT_SELECTED
+Key: Place a check mark () In the appropriate box, Value: NOT_SELECTED
+Key: (Specify date:, Value: )
+Key: RYEAR, Value: None
+Key: Adequate, Value: SELECTED
+Key: Inadequate, Value: NOT_SELECTED
+Key: MONTH, Value: 10
+Key: RHYTHM:, Value: 150
+Key: DAY, Value: 2
+Key: Diastolic, Value: 80 (mm Hg)
+Key: WEIGHT (kg):, Value: 50
+Key: Adequate, Value: SELECTED
+Key: Defective, Value: NOT_SELECTED
+Key: mark () in the appropriate box, Value: NOT_SELECTED
+Key: min, Value: 30
+Key: HEIGHT (cm)., Value: 180
+Key: Adequate, Value: SELECTED
+Key: ODJ, Value: 20
+Key: OSJ, Value: 20
+Key: Comments, Value: None
+Key: YES, Value: NOT_SELECTED
+Key: ODJ, Value: 20
+Key: OSJ, Value: 20
+Key: Systolic:, Value: 120 (mm Hg)
+Key: NO, Value: None
+Key: D 20/ 20, Value: None
+Key: JOS 20/, Value: 20
+Key: A.O. No., Value: 2013-0006
+Key: or Sleep Depression, other Mental, Value: Spells, Fits, Selzures Neurological Disorders
+Key: PASSPORT SIZE PHOTO, Value: None
+Key: 8. Are you taking any non-prescription or prescription medication?, Value: If yes, please list the medication(s) taken/being taken, and the purpose(s) and dosage(s)*

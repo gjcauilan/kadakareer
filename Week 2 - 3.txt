@@ -1,0 +1,26 @@
+-----Amazon Textract has detected as follows-----
+Key: REACTIVE, Value: NOT_SELECTED
+Key: NONREACTIVE, Value: SELECTED
+Key: Name:, Value: JAMES DEVLIN
+Key: Particle Agglutination, Value: NOT_SELECTED
+Key: EIA / CMIA / ELFA, Value: NOT_SELECTED
+Key: Address:, Value: PASIG CITY
+Key: RAPID, Value: SELECTED
+Key: Pathologist, Value: DAVID CHAN
+Key: Expiry date, Value: 25/9/2024
+Key: Civil Status:, Value: SINGLE
+Key: HIV Proficiency Cert. No., Value: 5678701234
+Key: Sex:, Value: M
+Key: License No., Value: 4567890123
+Key: Age:, Value: 30
+Key: Date:, Value: 25/9/2023
+Key: Date of Medical Examination, Value: 25/9/2023
+Key: Examining Physician, Value: CLARK TONG
+Key: Medical Technologist, Value: JOHN SMITH
+Key: Others (specify), Value: None
+Key: A.O. No., Value: 2013-0006
+Key: has undergone screening test for HIV/Acquired Immunodeficiency Syndrome (AIDS), and was found to be Non-Reactive*/Reactive* based on laboratory test (HIV-1/HIV-2)., Value: JAMES DEVLIN
+Key: Picture, Value: None
+Key: Screening Test Used:, Value: (please check)
+Key: MFOWS-Annex I-HIVST, Value: 06/08/2011
+Key: ANNEX -, Value: I

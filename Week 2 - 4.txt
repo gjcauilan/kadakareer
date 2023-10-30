@@ -1,0 +1,80 @@
+-----Amazon Textract has detected as follows-----
+Key: NO, Value: SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: NO, Value: SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: NO, Value: SELECTED
+Key: GIVEN NAME:, Value: JAMES
+Key: YES, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: NO, Value: SELECTED
+Key: MIDDLE NAME:, Value: ISAACS
+Key: YES, Value: NOT_SELECTED
+Key: NO, Value: SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: NATIONALITY:, Value: FILIPINO
+Key: RELIGION:, Value: NONE
+Key: YES, Value: NOT_SELECTED
+Key: NO, Value: SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: COUNTRY OF DESTINATION:, Value: MALTA
+Key: NO, Value: SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: NO, Value: SELECTED
+Key: MARRIED, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: NAME OF COMPANY/ EMPLOYER/ RECRUITMENT AGENCY (WHENEVER, Value: SHIP INC.
+Key: SURNAME/LAST NAME:, Value: DEVLIN
+Key: YES, Value: NOT_SELECTED
+Key: PASSPORT NUMBER:, Value: 1234567890
+Key: SINGLE, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: FEMALE, Value: NOT_SELECTED
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: POSITION APPLIED FOR:, Value: EXECUTIVE ASSISTANT
+Key: MALE, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: AGE:, Value: 30
+Key: NO, Value: SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: ADDRESS:, Value: 7 RD. 22, PROJECT 8, QUEZON CITY, PHILIPPINES
+Key: NO, Value: SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: NO, Value: SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: NO, Value: SELECTED
+Key: Place check mark () in the appropriate box, Value: NOT_SELECTED
+Key: YES, Value: NOT_SELECTED
+Key: YEAR, Value: 1993
+Key: MONTH, Value: 10
+Key: Specify date, Value: None
+Key: COUNTRY, Value: PHILIPPINES
+Key: DAY, Value: 2
+Key: been diagnosed, sought advice or treatment from medical doctor on the following conditions:, Value: NOT_SELECTED
+Key: CITY, Value: MANILA
+Key: Comments:, Value: None
+Key: 8. Are you taking any non-prescription or prescription medication? If yes, please list the medication(s) taken/being taken, and the purpose(s) and dosage(s):, Value: None
+Key: NO, Value: SELECTED
+Key: NO, Value: SELECTED
+Key: A.O. No., Value: 2013-0006
